@@ -5,8 +5,8 @@ const Precos = props => {
     return(
     <div id='pricing' className='container-fluid'>
         <div className='text-center'>
-            <h2>Pricing</h2>
-            <h4>Choose a payment plan that works for you</h4>
+            <h2>PREÇOS</h2>
+            <h4>Escolha um plano de Pagamento que sirva para você</h4>
         </div>
         <div className='row '>
             <div className='col-sm-4 col-xs-12'>
